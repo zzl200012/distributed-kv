@@ -1,5 +1,5 @@
 # distributed-kv
-* /labrpc: 基于 net/rpc 封装的 rpc 库，可以用于模拟各种网络故障
+* /labrpc: 课程工作人员通过 channel 模拟各种网络故障实现的一个 rpc 库，用法类似 net/rpc
 * /raft: 从零实现的一个 raft 库，主要包括以下 feature：
   * Leader Election
   * Log Replication
