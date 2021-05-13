@@ -1,5 +1,6 @@
 package raft
 
+// I create a pr now
 // store data in memory to simulate persistence, to simplify the implementation
 
 import "sync"
